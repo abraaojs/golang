@@ -1,0 +1,12 @@
+23/08/2017 18:35:47 - http://www.indracompany.com/en - online: true
+23/08/2017 18:35:47 - http://castralvacas.com.bre - online: false
+23/08/2017 18:35:47 - http://globo.com - online: true
+23/08/2017 18:35:47 - http://g1.globo.com - online: true
+23/08/2017 18:35:57 - http://www.indracompany.com/en - online: true
+23/08/2017 18:35:57 - http://castralvacas.com.bre - online: false
+23/08/2017 18:35:57 - http://globo.com - online: true
+23/08/2017 18:35:57 - http://g1.globo.com - online: true
+23/08/2017 18:36:07 - http://www.indracompany.com/en - online: true
+23/08/2017 18:36:07 - http://castralvacas.com.bre - online: false
+23/08/2017 18:36:07 - http://globo.com - online: true
+23/08/2017 18:36:07 - http://g1.globo.com - online: true
