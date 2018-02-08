@@ -91,7 +91,7 @@ func leComando() int {
 
 func iniciarMonitoramento() {
 	fmt.Println("Monitorando...")
-	//sites := []string{"http://www.indracompany.com/en", "http://castralvacas.com.br", "http://castralvacas.com.br"}
+	//sites := []string{"http://www.uol.com.br", "http://castralvacas.com.br", "http://castralvacas.com.br"}
 
 	sites := leSitesDoArquivo()
 
